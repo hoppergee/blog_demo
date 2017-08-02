@@ -22,3 +22,7 @@
 
 /config/database.yml
 /config/secrets.yml
+
+Capfile
+/config/deploy.rb
+/config/deploy/
